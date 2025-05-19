@@ -259,5 +259,3 @@ Contributions are welcome! Feel free to open issues or pull requests.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-
-wget http://host.docker.internal:2222/
