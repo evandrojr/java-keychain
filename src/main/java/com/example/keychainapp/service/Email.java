@@ -13,7 +13,7 @@ import java.net.URL;
 
 
 public class Email {
-    private static final String API_URL = "https://psimobi.fly.dev/api/email";
+    private static final String API_URL = "https://api.exemplo.com/send-email"; // URL da API de envio de e-mail
 
     // Modelo de dados para o e-mail
     public static class EmailData {
