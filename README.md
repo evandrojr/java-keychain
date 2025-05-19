@@ -2,35 +2,6 @@
 
 This project is a Java application that allows users to securely store and retrieve sensitive data using the system's encrypted keychain (Linux GNOME/KDE, macOS).
 
-## Project Structure
-
-The project is organized as follows:
-
-```
-java-keychain-app
-├── src
-│   ├── main
-│   │   ├── java
-│   │   │   └── com
-│   │   │       └── example
-│   │   │           └── keychainapp
-│   │   │               ├── Main.java          # Application entry point
-│   │   │               ├── ui
-│   │   │               │   └── MainFrame.java # GUI class
-│   │   │               └── logic
-│   │   │                   └── SystemKeychain.java # OS keychain integration
-│   │   └── resources
-│   └── test
-│       ├── java
-│       │   └── com
-│       │       └── example
-│       │           └── keychainapp
-│       │               └── logic
-│       │                   └── KeychainServiceTest.java # Automated tests
-│       └── resources
-├── build.gradle                # Gradle build script
-└── README.md                   # Project documentation
-```
 
 ## Requirements and Compatibility
 
