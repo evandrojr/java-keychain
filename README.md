@@ -162,8 +162,7 @@ To run the program normally, use:
 
 - **Windows**
   - **Tested versions:** Windows 10, Windows 11
-  - **Keychain integration:** Windows Credential Manager (via PowerShell)
-  - **Requirements:** PowerShell and the [CredentialManager](https://www.powershellgallery.com/packages/CredentialManager) module
+  - **Keychain integration:** Windows Credential Manager 
 
 #### Windows Support
 
